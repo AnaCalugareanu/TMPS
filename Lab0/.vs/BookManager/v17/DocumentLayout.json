@@ -3,28 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\anaca\\Source\\Repos\\BookManager\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\librarymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\AudioBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\AudioBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\EBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\EBook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\loanprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\loanprocessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\LoanProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\LoanProcessor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\ebook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\LibraryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\LibraryManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|c:\\users\\anaca\\source\\repos\\bookmanager\\bookmanager\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D5D6E9-82E1-4926-99A8-860E2F5F7C00}|BookManager\\BookManager.csproj|solutionrelative:bookmanager\\audiobook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BookManager\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,7 +50,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "AudioBook.cs",
               "DocumentMoniker": "C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\AudioBook.cs",
               "RelativeDocumentMoniker": "BookManager\\AudioBook.cs",
@@ -58,12 +58,11 @@
               "RelativeToolTip": "BookManager\\AudioBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:21:58.675Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:21:58.675Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "EBook.cs",
               "DocumentMoniker": "C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\EBook.cs",
               "RelativeDocumentMoniker": "BookManager\\EBook.cs",
@@ -71,8 +70,7 @@
               "RelativeToolTip": "BookManager\\EBook.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:21:42.13Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:21:42.13Z"
             },
             {
               "$type": "Document",
@@ -84,12 +82,11 @@
               "RelativeToolTip": "BookManager\\LoanProcessor.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwA4AAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:19:47.992Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:19:47.992Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "LibraryManager.cs",
               "DocumentMoniker": "C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\LibraryManager.cs",
               "RelativeDocumentMoniker": "BookManager\\LibraryManager.cs",
@@ -97,8 +94,7 @@
               "RelativeToolTip": "BookManager\\LibraryManager.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:19:24.072Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:19:24.072Z"
             },
             {
               "$type": "Document",
@@ -115,7 +111,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\anaca\\Source\\Repos\\BookManager\\BookManager\\Program.cs",
               "RelativeDocumentMoniker": "BookManager\\Program.cs",
@@ -123,8 +119,7 @@
               "RelativeToolTip": "BookManager\\Program.cs",
               "ViewState": "AQIAADYAAAAAAAAAAAA1wDMAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T13:16:45.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T13:16:45.1Z"
             }
           ]
         }
